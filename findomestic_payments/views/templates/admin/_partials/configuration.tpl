@@ -193,7 +193,7 @@
 				<ul>
 					<li>{l s='I parametri necessari alla configurazione del modulo/plug-in vengono forniti da Findomestic. Se hai bisogno di supporto contatta il tuo referente commerciale.
 ' mod='findomestic_payments'}</li>
-					<li>{l s='Non sei ancora convenzionato con noi? <a href="https://findo.it/ecommerce">Visita Findomestic</a>' mod='findomestic_payments'}</li>
+					<li>Non sei ancora convenzionato con noi? <a href="https://findo.it/ecommerce">Visita Findomestic</a> {l mod='findomestic_payments'}</li>
 
 				</ul>
 
